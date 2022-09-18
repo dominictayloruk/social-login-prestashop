@@ -1,7 +1,7 @@
 <?php
 /**
  * @package       OneAll Social Login
- * @copyright     Copyright 2011-2017 http://www.oneall.com
+ * @copyright     Copyright 2011-2017 https://www.oneall.com
  * @license       GNU/GPL 2 or later
  *
  * This program is free software; you can redistribute it and/or
@@ -26,7 +26,7 @@
 //OneAll Social Login Toolbox
 class oneall_social_login_tools
 {
-    const USER_AGENT = 'SocialLogin/4.7.1 PrestaShop/1.7.x.x (+http://www.oneall.com/)';
+    const USER_AGENT = 'SocialLogin/4.7.1 PrestaShop/1.7.x.x (+https://www.oneall.com/)';
 
     /**
      * Logs a given customer in.

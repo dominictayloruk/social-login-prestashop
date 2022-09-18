@@ -1,7 +1,7 @@
 <?php
 /**
  * @package       OneAll Social Login
- * @copyright     Copyright 2011-2017 http://www.oneall.com
+ * @copyright     Copyright 2011-2017 https://www.oneall.com
  * @license       GNU/GPL 2 or later
  *
  * This program is free software; you can redistribute it and/or
@@ -238,9 +238,9 @@ class OneallSocialLogin extends Module
 			</p>
 		<div class="oasl_box">
 			<div class="oasl_box_title">' . $this->l('The setup takes only a couple of minutes!') . '</div>
-				<p>To be able to use this plugin you first of all need to create a free account at <a href="http://app.oneall.com" target="_blank">http://www.oneall.com</a> and setup a Site.</p>
+				<p>To be able to use this plugin you first of all need to create a free account at <a href="https://app.oneall.com" target="_blank">https://www.oneall.com</a> and setup a Site.</p>
 				<p>After having created your account and setup your Site, please enter the Site settings in the form <strong>API Settings</strong> below.
-				<p><a href="http://app.oneall.com" target="_blank" class="button">Click here to setup your free account</a></p>
+				<p><a href="https://app.oneall.com" target="_blank" class="button">Click here to setup your free account</a></p>
 		</div>
 		<form action="' . Tools::safeOutput($form_url) . '" method="post">
 			<fieldset>

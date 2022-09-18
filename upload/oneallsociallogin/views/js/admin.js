@@ -72,7 +72,7 @@ jQuery(document).ready(function($) {
 			{
 				is_success = false;
 				radio_curl.attr("checked", "checked");					
-				message_string = 'Autodetection Error - our <a href="http://docs.oneall.com/plugins/guide/" target="_blank">documentation</a> might help you fix this issue.';
+				message_string = 'Autodetection Error - our <a href="https://docs.oneall.com/plugins/guide/" target="_blank">documentation</a> might help you fix this issue.';
 			}
 			
 			message_container.removeClass('oasl_working_message');

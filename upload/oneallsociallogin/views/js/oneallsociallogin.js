@@ -67,7 +67,7 @@ $(document).ready(function() {
 	if (oasl_widget_location == 'library'){
 
 		/* OneAll Social Login */
-		/* http://docs.oneall.com/plugins/guide/social-login-prestashop/ */
+		/* https://docs.oneall.com/plugins/guide/social-login-prestashop/ */
 
 		/* Asynchronous Library */      
 		var oa = document.createElement('script');
